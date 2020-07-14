@@ -1,0 +1,1411 @@
+Client 52 waits in line to make a Withdraw
+Client 74 waits in line to make a Withdraw
+Client 36 waits in line to make a Withdraw
+Client 82 waits in line to make a Withdraw
+Client 34 waits in line to make a Withdraw
+Client 17 waits in line to make a Withdraw
+Teller 0 is available
+Client 93 waits in line to make a Deposit
+Client 86 waits in line to make a Deposit
+Client 41 waits in line to make a Withdraw
+Client 58 waits in line to make a Withdraw
+Client 53 waits in line to make a Withdraw
+Client 25 waits in line to make a Withdraw
+Client 12 waits in line to make a Withdraw
+Client 97 waits in line to make a Deposit
+Client 80 waits in line to make a Deposit
+Client 68 waits in line to make a Deposit
+Client 9 waits in line to make a Deposit
+Client 8 waits in line to make a Deposit
+Client 43 waits in line to make a Deposit
+Client 39 waits in line to make a Deposit
+Client 32 waits in line to make a Deposit
+Client 99 waits in line to make a Deposit
+Client 76 waits in line to make a Deposit
+Client 65 waits in line to make a Withdraw
+Client 24 waits in line to make a Withdraw
+Client 47 waits in line to make a Deposit
+Client 94 waits in line to make a Deposit
+Client 69 waits in line to make a Withdraw
+Client 3 waits in line to make a Deposit
+Client 64 waits in line to make a Withdraw
+Client 88 waits in line to make a Withdraw
+Client 55 waits in line to make a Withdraw
+Client 62 waits in line to make a Deposit
+Client 1 waits in line to make a Withdraw
+Client 38 waits in line to make a Withdraw
+Client 87 waits in line to make a Withdraw
+Client 33 waits in line to make a Deposit
+Client 70 waits in line to make a Deposit
+Client 84 waits in line to make a Deposit
+Client 23 waits in line to make a Deposit
+Client 20 waits in line to make a Withdraw
+Client 98 waits in line to make a Deposit
+Client 79 waits in line to make a Withdraw
+Client 15 waits in line to make a Withdraw
+Client 30 waits in line to make a Withdraw
+Client 16 waits in line to make a Deposit
+Client 7 waits in line to make a Deposit
+Client 10 waits in line to make a Deposit
+Client 28 waits in line to make a Deposit
+Client 91 waits in line to make a Deposit
+Client 5 waits in line to make a Withdraw
+Client 27 waits in line to make a Withdraw
+Client 66 waits in line to make a Deposit
+Client 6 waits in line to make a Deposit
+Client 78 waits in line to make a Deposit
+Client 96 waits in line to make a Withdraw
+Client 48 waits in line to make a Deposit
+Client 49 waits in line to make a Deposit
+Client 89 waits in line to make a Deposit
+Client 2 waits in line to make a Withdraw
+Client 29 waits in line to make a Deposit
+Client 59 waits in line to make a Deposit
+Client 46 waits in line to make a Withdraw
+Client 11 waits in line to make a Deposit
+Client 45 waits in line to make a Withdraw
+Client 19 waits in line to make a Withdraw
+Client 85 waits in line to make a Deposit
+Client 4 waits in line to make a Withdraw
+Client 73 waits in line to make a Withdraw
+Teller 1 is available
+Client 0 waits in line to make a Withdraw
+Client 92 waits in line to make a Deposit
+Client 51 waits in line to make a Withdraw
+Client 14 waits in line to make a Deposit
+Client 71 waits in line to make a Withdraw
+Client 31 waits in line to make a Withdraw
+Client 83 waits in line to make a Withdraw
+Client 81 waits in line to make a Withdraw
+Client 61 waits in line to make a Deposit
+Client 75 waits in line to make a Withdraw
+Client 18 waits in line to make a Deposit
+Client 60 waits in line to make a Deposit
+Client 77 waits in line to make a Withdraw
+Client 26 waits in line to make a Withdraw
+Teller 2 is available
+Client 22 waits in line to make a Withdraw
+Client 90 waits in line to make a Withdraw
+Client 72 waits in line to make a Deposit
+Client 42 waits in line to make a Deposit
+Client 57 waits in line to make a Withdraw
+Client 54 waits in line to make a Withdraw
+Client 44 waits in line to make a Deposit
+Client 63 waits in line to make a Deposit
+Client 67 waits in line to make a Deposit
+Client 13 waits in line to make a Withdraw
+Client 56 waits in line to make a Withdraw
+Client 50 waits in line to make a Deposit
+Client 21 waits in line to make a Withdraw
+Client 37 waits in line to make a Withdraw
+Client 35 waits in line to make a Withdraw
+Client 40 waits in line to make a Deposit
+Client 95 waits in line to make a Withdraw
+Client 22 goes to Teller 1
+Client 74 goes to Teller 2
+Client 52 goes to Teller 0
+Teller 1 is serving Client 22
+Teller 2 is serving Client 74
+Teller 0 is serving Client 52
+Client 22 wants to make a Withdraw
+Client 74 wants to make a Withdraw
+Client 52 wants to make a Withdraw
+Teller 1 is processing Client 22's Withdraw
+Teller 2 is processing Client 74's Withdraw
+Teller 0 is processing Client 52's Withdraw
+Teller 1 is getting the manager's approval
+Teller 1 is got the manager's approval
+Teller 2 is getting the manager's approval
+Teller 1 is going to the safe
+Teller 1 is using the safe
+Teller 2 is got the manager's approval
+Teller 2 is going to the safe
+Teller 0 is getting the manager's approval
+Teller 2 is using the safe
+Teller 1 is done using the safe
+Teller 1 notifies Client 22
+Client 22 is done
+Client 22 leaves
+Teller 1 has finished serving Client 22
+Teller 1 is available
+Client 36 goes to Teller 1
+Teller 1 is serving Client 36
+Client 36 wants to make a Withdraw
+Teller 1 is processing Client 36's Withdraw
+Teller 0 is got the manager's approval
+Teller 0 is going to the safe
+Teller 0 is using the safe
+Teller 1 is getting the manager's approval
+Teller 2 is done using the safe
+Teller 2 notifies Client 74
+Client 74 is done
+Client 74 leaves
+Teller 2 has finished serving Client 74
+Teller 2 is available
+Client 34 goes to Teller 2
+Teller 2 is serving Client 34
+Client 34 wants to make a Withdraw
+Teller 2 is processing Client 34's Withdraw
+Teller 1 is got the manager's approval
+Teller 1 is going to the safe
+Teller 1 is using the safe
+Teller 2 is getting the manager's approval
+Teller 0 is done using the safe
+Teller 0 notifies Client 52
+Client 52 is done
+Client 52 leaves
+Teller 0 has finished serving Client 52
+Teller 0 is available
+Client 17 goes to Teller 0
+Teller 0 is serving Client 17
+Client 17 wants to make a Withdraw
+Teller 0 is processing Client 17's Withdraw
+Teller 2 is got the manager's approval
+Teller 2 is going to the safe
+Teller 0 is getting the manager's approval
+Teller 2 is using the safe
+Teller 0 is got the manager's approval
+Teller 0 is going to the safe
+Teller 1 is done using the safe
+Teller 0 is using the safe
+Teller 1 notifies Client 36
+Client 36 is done
+Client 36 leaves
+Teller 1 has finished serving Client 36
+Teller 1 is available
+Client 86 goes to Teller 1
+Teller 1 is serving Client 86
+Client 86 wants to make a Deposit
+Teller 1 is processing Client 86's Deposit
+Teller 1 is going to the safe
+Teller 2 is done using the safe
+Teller 2 notifies Client 34
+Teller 1 is using the safe
+Client 34 is done
+Client 34 leaves
+Teller 2 has finished serving Client 34
+Teller 2 is available
+Client 41 goes to Teller 2
+Teller 2 is serving Client 41
+Client 41 wants to make a Withdraw
+Teller 2 is processing Client 41's Withdraw
+Teller 2 is getting the manager's approval
+Teller 0 is done using the safe
+Teller 0 notifies Client 17
+Client 17 is done
+Client 17 leaves
+Teller 0 has finished serving Client 17
+Teller 2 is got the manager's approval
+Teller 0 is available
+Teller 2 is going to the safe
+Teller 2 is using the safe
+Client 58 goes to Teller 0
+Teller 0 is serving Client 58
+Client 58 wants to make a Withdraw
+Teller 0 is processing Client 58's Withdraw
+Teller 0 is getting the manager's approval
+Teller 2 is done using the safe
+Teller 2 notifies Client 41
+Client 41 is done
+Client 41 leaves
+Teller 2 has finished serving Client 41
+Teller 2 is available
+Client 53 goes to Teller 2
+Teller 2 is serving Client 53
+Client 53 wants to make a Withdraw
+Teller 2 is processing Client 53's Withdraw
+Teller 1 is done using the safe
+Teller 1 notifies Client 86
+Client 86 is done
+Client 86 leaves
+Teller 1 has finished serving Client 86
+Teller 1 is available
+Client 25 goes to Teller 1
+Teller 1 is serving Client 25
+Client 25 wants to make a Withdraw
+Teller 1 is processing Client 25's Withdraw
+Teller 0 is got the manager's approval
+Teller 0 is going to the safe
+Teller 2 is getting the manager's approval
+Teller 0 is using the safe
+Teller 2 is got the manager's approval
+Teller 2 is going to the safe
+Teller 1 is getting the manager's approval
+Teller 2 is using the safe
+Teller 0 is done using the safe
+Teller 0 notifies Client 58
+Client 58 is done
+Client 58 leaves
+Teller 0 has finished serving Client 58
+Teller 0 is available
+Client 12 goes to Teller 0
+Teller 0 is serving Client 12
+Client 12 wants to make a Withdraw
+Teller 0 is processing Client 12's Withdraw
+Teller 1 is got the manager's approval
+Teller 1 is going to the safe
+Teller 1 is using the safe
+Teller 0 is getting the manager's approval
+Teller 2 is done using the safe
+Teller 2 notifies Client 53
+Client 53 is done
+Client 53 leaves
+Teller 2 has finished serving Client 53
+Teller 2 is available
+Client 97 goes to Teller 2
+Teller 2 is serving Client 97
+Client 97 wants to make a Deposit
+Teller 2 is processing Client 97's Deposit
+Teller 2 is going to the safe
+Teller 2 is using the safe
+Teller 0 is got the manager's approval
+Teller 0 is going to the safe
+Teller 1 is done using the safe
+Teller 2 is done using the safe
+Teller 1 notifies Client 25
+Teller 0 is using the safe
+Teller 2 notifies Client 97
+Client 25 is done
+Client 97 is done
+Teller 1 has finished serving Client 25
+Teller 1 is available
+Client 25 leaves
+Client 80 goes to Teller 1
+Client 97 leaves
+Teller 2 has finished serving Client 97
+Teller 1 is serving Client 80
+Teller 2 is available
+Client 80 wants to make a Deposit
+Client 68 goes to Teller 2
+Teller 1 is processing Client 80's Deposit
+Teller 2 is serving Client 68
+Teller 1 is going to the safe
+Client 68 wants to make a Deposit
+Teller 1 is using the safe
+Teller 2 is processing Client 68's Deposit
+Teller 2 is going to the safe
+Teller 0 is done using the safe
+Teller 0 notifies Client 12
+Teller 2 is using the safe
+Client 12 is done
+Client 12 leaves
+Teller 0 has finished serving Client 12
+Teller 0 is available
+Client 9 goes to Teller 0
+Teller 0 is serving Client 9
+Client 9 wants to make a Deposit
+Teller 0 is processing Client 9's Deposit
+Teller 0 is going to the safe
+Teller 1 is done using the safe
+Teller 1 notifies Client 80
+Teller 0 is using the safe
+Client 80 is done
+Client 80 leaves
+Teller 1 has finished serving Client 80
+Teller 1 is available
+Client 8 goes to Teller 1
+Teller 1 is serving Client 8
+Client 8 wants to make a Deposit
+Teller 1 is processing Client 8's Deposit
+Teller 1 is going to the safe
+Teller 2 is done using the safe
+Teller 2 notifies Client 68
+Teller 1 is using the safe
+Client 68 is done
+Client 68 leaves
+Teller 2 has finished serving Client 68
+Teller 2 is available
+Client 43 goes to Teller 2
+Teller 2 is serving Client 43
+Client 43 wants to make a Deposit
+Teller 2 is processing Client 43's Deposit
+Teller 2 is going to the safe
+Teller 1 is done using the safe
+Teller 1 notifies Client 8
+Teller 2 is using the safe
+Client 8 is done
+Client 8 leaves
+Teller 1 has finished serving Client 8
+Teller 1 is available
+Client 39 goes to Teller 1
+Teller 1 is serving Client 39
+Client 39 wants to make a Deposit
+Teller 1 is processing Client 39's Deposit
+Teller 1 is going to the safe
+Teller 0 is done using the safe
+Teller 0 notifies Client 9
+Teller 1 is using the safe
+Client 9 is done
+Client 9 leaves
+Teller 0 has finished serving Client 9
+Teller 0 is available
+Client 32 goes to Teller 0
+Teller 0 is serving Client 32
+Client 32 wants to make a Deposit
+Teller 0 is processing Client 32's Deposit
+Teller 0 is going to the safe
+Teller 2 is done using the safe
+Teller 2 notifies Client 43
+Teller 0 is using the safe
+Client 43 is done
+Client 43 leaves
+Teller 2 has finished serving Client 43
+Teller 2 is available
+Client 99 goes to Teller 2
+Teller 2 is serving Client 99
+Client 99 wants to make a Deposit
+Teller 2 is processing Client 99's Deposit
+Teller 2 is going to the safe
+Teller 1 is done using the safe
+Teller 1 notifies Client 39
+Teller 2 is using the safe
+Client 39 is done
+Client 39 leaves
+Teller 1 has finished serving Client 39
+Teller 1 is available
+Client 76 goes to Teller 1
+Teller 1 is serving Client 76
+Client 76 wants to make a Deposit
+Teller 1 is processing Client 76's Deposit
+Teller 1 is going to the safe
+Teller 0 is done using the safe
+Teller 0 notifies Client 32
+Teller 1 is using the safe
+Client 32 is done
+Client 32 leaves
+Teller 0 has finished serving Client 32
+Teller 0 is available
+Client 65 goes to Teller 0
+Teller 0 is serving Client 65
+Client 65 wants to make a Withdraw
+Teller 0 is processing Client 65's Withdraw
+Teller 0 is getting the manager's approval
+Teller 2 is done using the safe
+Teller 2 notifies Client 99
+Client 99 is done
+Client 99 leaves
+Teller 2 has finished serving Client 99
+Teller 2 is available
+Client 24 goes to Teller 2
+Teller 2 is serving Client 24
+Client 24 wants to make a Withdraw
+Teller 2 is processing Client 24's Withdraw
+Teller 0 is got the manager's approval
+Teller 0 is going to the safe
+Teller 0 is using the safe
+Teller 2 is getting the manager's approval
+Teller 1 is done using the safe
+Teller 1 notifies Client 76
+Client 76 is done
+Client 76 leaves
+Teller 1 has finished serving Client 76
+Teller 1 is available
+Client 47 goes to Teller 1
+Teller 1 is serving Client 47
+Client 47 wants to make a Deposit
+Teller 1 is processing Client 47's Deposit
+Teller 1 is going to the safe
+Teller 1 is using the safe
+Teller 2 is got the manager's approval
+Teller 2 is going to the safe
+Teller 0 is done using the safe
+Teller 0 notifies Client 65
+Teller 2 is using the safe
+Client 65 is done
+Client 65 leaves
+Teller 0 has finished serving Client 65
+Teller 0 is available
+Client 94 goes to Teller 0
+Teller 0 is serving Client 94
+Client 94 wants to make a Deposit
+Teller 0 is processing Client 94's Deposit
+Teller 0 is going to the safe
+Teller 2 is done using the safe
+Teller 2 notifies Client 24
+Teller 0 is using the safe
+Client 24 is done
+Client 24 leaves
+Teller 2 has finished serving Client 24
+Teller 2 is available
+Client 69 goes to Teller 2
+Teller 2 is serving Client 69
+Client 69 wants to make a Withdraw
+Teller 2 is processing Client 69's Withdraw
+Teller 2 is getting the manager's approval
+Teller 2 is got the manager's approval
+Teller 2 is going to the safe
+Teller 1 is done using the safe
+Teller 1 notifies Client 47
+Teller 2 is using the safe
+Client 47 is done
+Client 47 leaves
+Teller 1 has finished serving Client 47
+Teller 1 is available
+Client 3 goes to Teller 1
+Teller 1 is serving Client 3
+Client 3 wants to make a Deposit
+Teller 1 is processing Client 3's Deposit
+Teller 1 is going to the safe
+Teller 0 is done using the safe
+Teller 0 notifies Client 94
+Teller 1 is using the safe
+Client 94 is done
+Client 94 leaves
+Teller 0 has finished serving Client 94
+Teller 0 is available
+Client 64 goes to Teller 0
+Teller 2 is done using the safe
+Teller 2 notifies Client 69
+Teller 0 is serving Client 64
+Client 69 is done
+Client 64 wants to make a Withdraw
+Client 69 leaves
+Teller 2 has finished serving Client 69
+Teller 2 is available
+Teller 0 is processing Client 64's Withdraw
+Teller 0 is getting the manager's approval
+Client 88 goes to Teller 2
+Teller 2 is serving Client 88
+Client 88 wants to make a Withdraw
+Teller 2 is processing Client 88's Withdraw
+Teller 1 is done using the safe
+Teller 1 notifies Client 3
+Client 3 is done
+Client 3 leaves
+Teller 1 has finished serving Client 3
+Teller 1 is available
+Client 55 goes to Teller 1
+Teller 1 is serving Client 55
+Client 55 wants to make a Withdraw
+Teller 1 is processing Client 55's Withdraw
+Teller 0 is got the manager's approval
+Teller 0 is going to the safe
+Teller 0 is using the safe
+Teller 2 is getting the manager's approval
+Teller 2 is got the manager's approval
+Teller 2 is going to the safe
+Teller 1 is getting the manager's approval
+Teller 2 is using the safe
+Teller 0 is done using the safe
+Teller 0 notifies Client 64
+Client 64 is done
+Client 64 leaves
+Teller 0 has finished serving Client 64
+Teller 0 is available
+Client 62 goes to Teller 0
+Teller 0 is serving Client 62
+Client 62 wants to make a Deposit
+Teller 0 is processing Client 62's Deposit
+Teller 0 is going to the safe
+Teller 0 is using the safe
+Teller 2 is done using the safe
+Teller 2 notifies Client 88
+Client 88 is done
+Client 88 leaves
+Teller 2 has finished serving Client 88
+Teller 2 is available
+Client 1 goes to Teller 2
+Teller 2 is serving Client 1
+Client 1 wants to make a Withdraw
+Teller 2 is processing Client 1's Withdraw
+Teller 1 is got the manager's approval
+Teller 1 is going to the safe
+Teller 2 is getting the manager's approval
+Teller 1 is using the safe
+Teller 2 is got the manager's approval
+Teller 2 is going to the safe
+Teller 1 is done using the safe
+Teller 1 notifies Client 55
+Teller 2 is using the safe
+Client 55 is done
+Client 55 leaves
+Teller 1 has finished serving Client 55
+Teller 1 is available
+Client 38 goes to Teller 1
+Teller 1 is serving Client 38
+Client 38 wants to make a Withdraw
+Teller 1 is processing Client 38's Withdraw
+Teller 1 is getting the manager's approval
+Teller 0 is done using the safe
+Teller 0 notifies Client 62
+Client 62 is done
+Client 62 leaves
+Teller 0 has finished serving Client 62
+Teller 0 is available
+Client 87 goes to Teller 0
+Teller 0 is serving Client 87
+Client 87 wants to make a Withdraw
+Teller 0 is processing Client 87's Withdraw
+Teller 2 is done using the safe
+Teller 2 notifies Client 1
+Client 1 is done
+Client 1 leaves
+Teller 2 has finished serving Client 1
+Teller 2 is available
+Client 33 goes to Teller 2
+Teller 2 is serving Client 33
+Client 33 wants to make a Deposit
+Teller 2 is processing Client 33's Deposit
+Teller 2 is going to the safe
+Teller 2 is using the safe
+Teller 1 is got the manager's approval
+Teller 1 is going to the safe
+Teller 1 is using the safe
+Teller 0 is getting the manager's approval
+Teller 0 is got the manager's approval
+Teller 0 is going to the safe
+Teller 2 is done using the safe
+Teller 2 notifies Client 33
+Client 33 is done
+Teller 0 is using the safe
+Client 33 leaves
+Teller 2 has finished serving Client 33
+Teller 2 is available
+Client 70 goes to Teller 2
+Teller 2 is serving Client 70
+Client 70 wants to make a Deposit
+Teller 2 is processing Client 70's Deposit
+Teller 2 is going to the safe
+Teller 1 is done using the safe
+Teller 1 notifies Client 38
+Teller 2 is using the safe
+Client 38 is done
+Client 38 leaves
+Teller 1 has finished serving Client 38
+Teller 1 is available
+Client 84 goes to Teller 1
+Teller 1 is serving Client 84
+Client 84 wants to make a Deposit
+Teller 1 is processing Client 84's Deposit
+Teller 1 is going to the safe
+Teller 0 is done using the safe
+Teller 0 notifies Client 87
+Teller 1 is using the safe
+Client 87 is done
+Client 87 leaves
+Teller 0 has finished serving Client 87
+Teller 0 is available
+Client 23 goes to Teller 0
+Teller 0 is serving Client 23
+Client 23 wants to make a Deposit
+Teller 0 is processing Client 23's Deposit
+Teller 0 is going to the safe
+Teller 2 is done using the safe
+Teller 2 notifies Client 70
+Teller 0 is using the safe
+Client 70 is done
+Client 70 leaves
+Teller 2 has finished serving Client 70
+Teller 2 is available
+Client 20 goes to Teller 2
+Teller 2 is serving Client 20
+Client 20 wants to make a Withdraw
+Teller 2 is processing Client 20's Withdraw
+Teller 2 is getting the manager's approval
+Teller 1 is done using the safe
+Teller 1 notifies Client 84
+Client 84 is done
+Client 84 leaves
+Teller 1 has finished serving Client 84
+Teller 1 is available
+Client 98 goes to Teller 1
+Teller 1 is serving Client 98
+Client 98 wants to make a Deposit
+Teller 1 is processing Client 98's Deposit
+Teller 1 is going to the safe
+Teller 1 is using the safe
+Teller 2 is got the manager's approval
+Teller 2 is going to the safe
+Teller 1 is done using the safe
+Teller 1 notifies Client 98
+Teller 2 is using the safe
+Client 98 is done
+Client 98 leaves
+Teller 1 has finished serving Client 98
+Teller 1 is available
+Client 79 goes to Teller 1
+Teller 1 is serving Client 79
+Client 79 wants to make a Withdraw
+Teller 1 is processing Client 79's Withdraw
+Teller 1 is getting the manager's approval
+Teller 0 is done using the safe
+Teller 0 notifies Client 23
+Client 23 is done
+Client 23 leaves
+Teller 0 has finished serving Client 23
+Teller 0 is available
+Client 15 goes to Teller 0
+Teller 0 is serving Client 15
+Client 15 wants to make a Withdraw
+Teller 0 is processing Client 15's Withdraw
+Teller 1 is got the manager's approval
+Teller 1 is going to the safe
+Teller 1 is using the safe
+Teller 0 is getting the manager's approval
+Teller 0 is got the manager's approval
+Teller 0 is going to the safe
+Teller 2 is done using the safe
+Teller 2 notifies Client 20
+Teller 0 is using the safe
+Client 20 is done
+Client 20 leaves
+Teller 2 has finished serving Client 20
+Teller 2 is available
+Client 30 goes to Teller 2
+Teller 2 is serving Client 30
+Client 30 wants to make a Withdraw
+Teller 2 is processing Client 30's Withdraw
+Teller 2 is getting the manager's approval
+Teller 2 is got the manager's approval
+Teller 2 is going to the safe
+Teller 1 is done using the safe
+Teller 1 notifies Client 79
+Teller 2 is using the safe
+Client 79 is done
+Client 79 leaves
+Teller 1 has finished serving Client 79
+Teller 1 is available
+Client 16 goes to Teller 1
+Teller 1 is serving Client 16
+Client 16 wants to make a Deposit
+Teller 1 is processing Client 16's Deposit
+Teller 1 is going to the safe
+Teller 0 is done using the safe
+Teller 0 notifies Client 15
+Teller 1 is using the safe
+Client 15 is done
+Client 15 leaves
+Teller 0 has finished serving Client 15
+Teller 0 is available
+Client 7 goes to Teller 0
+Teller 0 is serving Client 7
+Client 7 wants to make a Deposit
+Teller 0 is processing Client 7's Deposit
+Teller 0 is going to the safe
+Teller 2 is done using the safe
+Teller 2 notifies Client 30
+Teller 0 is using the safe
+Client 30 is done
+Client 30 leaves
+Teller 2 has finished serving Client 30
+Teller 2 is available
+Client 10 goes to Teller 2
+Teller 2 is serving Client 10
+Client 10 wants to make a Deposit
+Teller 2 is processing Client 10's Deposit
+Teller 2 is going to the safe
+Teller 1 is done using the safe
+Teller 1 notifies Client 16
+Teller 2 is using the safe
+Client 16 is done
+Client 16 leaves
+Teller 1 has finished serving Client 16
+Teller 1 is available
+Client 28 goes to Teller 1
+Teller 1 is serving Client 28
+Client 28 wants to make a Deposit
+Teller 1 is processing Client 28's Deposit
+Teller 1 is going to the safe
+Teller 0 is done using the safe
+Teller 0 notifies Client 7
+Teller 1 is using the safe
+Client 7 is done
+Client 7 leaves
+Teller 0 has finished serving Client 7
+Teller 0 is available
+Client 91 goes to Teller 0
+Teller 0 is serving Client 91
+Client 91 wants to make a Deposit
+Teller 0 is processing Client 91's Deposit
+Teller 0 is going to the safe
+Teller 1 is done using the safe
+Teller 1 notifies Client 28
+Teller 0 is using the safe
+Client 28 is done
+Client 28 leaves
+Teller 1 has finished serving Client 28
+Teller 1 is available
+Client 5 goes to Teller 1
+Teller 1 is serving Client 5
+Client 5 wants to make a Withdraw
+Teller 1 is processing Client 5's Withdraw
+Teller 1 is getting the manager's approval
+Teller 2 is done using the safe
+Teller 2 notifies Client 10
+Client 10 is done
+Client 10 leaves
+Teller 2 has finished serving Client 10
+Teller 2 is available
+Client 27 goes to Teller 2
+Teller 2 is serving Client 27
+Client 27 wants to make a Withdraw
+Teller 2 is processing Client 27's Withdraw
+Teller 0 is done using the safe
+Teller 0 notifies Client 91
+Client 91 is done
+Client 91 leaves
+Teller 0 has finished serving Client 91
+Teller 0 is available
+Client 66 goes to Teller 0
+Teller 0 is serving Client 66
+Client 66 wants to make a Deposit
+Teller 0 is processing Client 66's Deposit
+Teller 0 is going to the safe
+Teller 0 is using the safe
+Teller 1 is got the manager's approval
+Teller 1 is going to the safe
+Teller 1 is using the safe
+Teller 2 is getting the manager's approval
+Teller 0 is done using the safe
+Teller 0 notifies Client 66
+Client 66 is done
+Client 66 leaves
+Teller 0 has finished serving Client 66
+Teller 0 is available
+Client 6 goes to Teller 0
+Teller 0 is serving Client 6
+Client 6 wants to make a Deposit
+Teller 0 is processing Client 6's Deposit
+Teller 0 is going to the safe
+Teller 0 is using the safe
+Teller 2 is got the manager's approval
+Teller 2 is going to the safe
+Teller 0 is done using the safe
+Teller 0 notifies Client 6
+Teller 2 is using the safe
+Client 6 is done
+Client 6 leaves
+Teller 0 has finished serving Client 6
+Teller 0 is available
+Client 78 goes to Teller 0
+Teller 0 is serving Client 78
+Client 78 wants to make a Deposit
+Teller 0 is processing Client 78's Deposit
+Teller 0 is going to the safe
+Teller 1 is done using the safe
+Teller 1 notifies Client 5
+Teller 0 is using the safe
+Client 5 is done
+Client 5 leaves
+Teller 1 has finished serving Client 5
+Teller 1 is available
+Client 96 goes to Teller 1
+Teller 1 is serving Client 96
+Client 96 wants to make a Withdraw
+Teller 1 is processing Client 96's Withdraw
+Teller 1 is getting the manager's approval
+Teller 2 is done using the safe
+Teller 2 notifies Client 27
+Client 27 is done
+Client 27 leaves
+Teller 2 has finished serving Client 27
+Teller 2 is available
+Client 48 goes to Teller 2
+Teller 2 is serving Client 48
+Client 48 wants to make a Deposit
+Teller 2 is processing Client 48's Deposit
+Teller 2 is going to the safe
+Teller 2 is using the safe
+Teller 1 is got the manager's approval
+Teller 1 is going to the safe
+Teller 0 is done using the safe
+Teller 0 notifies Client 78
+Teller 1 is using the safe
+Client 78 is done
+Client 78 leaves
+Teller 0 has finished serving Client 78
+Teller 0 is available
+Client 49 goes to Teller 0
+Teller 0 is serving Client 49
+Client 49 wants to make a Deposit
+Teller 0 is processing Client 49's Deposit
+Teller 0 is going to the safe
+Teller 2 is done using the safe
+Teller 2 notifies Client 48
+Teller 0 is using the safe
+Client 48 is done
+Client 48 leaves
+Teller 2 has finished serving Client 48
+Teller 2 is available
+Client 89 goes to Teller 2
+Teller 2 is serving Client 89
+Client 89 wants to make a Deposit
+Teller 2 is processing Client 89's Deposit
+Teller 2 is going to the safe
+Teller 0 is done using the safe
+Teller 0 notifies Client 49
+Teller 2 is using the safe
+Client 49 is done
+Client 49 leaves
+Teller 0 has finished serving Client 49
+Teller 0 is available
+Client 2 goes to Teller 0
+Teller 0 is serving Client 2
+Client 2 wants to make a Withdraw
+Teller 0 is processing Client 2's Withdraw
+Teller 0 is getting the manager's approval
+Teller 1 is done using the safe
+Teller 1 notifies Client 96
+Client 96 is done
+Client 96 leaves
+Teller 1 has finished serving Client 96
+Teller 1 is available
+Client 29 goes to Teller 1
+Teller 1 is serving Client 29
+Client 29 wants to make a Deposit
+Teller 1 is processing Client 29's Deposit
+Teller 1 is going to the safe
+Teller 1 is using the safe
+Teller 0 is got the manager's approval
+Teller 0 is going to the safe
+Teller 2 is done using the safe
+Teller 2 notifies Client 89
+Teller 0 is using the safe
+Client 89 is done
+Client 89 leaves
+Teller 2 has finished serving Client 89
+Teller 2 is available
+Client 59 goes to Teller 2
+Teller 2 is serving Client 59
+Client 59 wants to make a Deposit
+Teller 2 is processing Client 59's Deposit
+Teller 2 is going to the safe
+Teller 1 is done using the safe
+Teller 1 notifies Client 29
+Teller 2 is using the safe
+Client 29 is done
+Client 29 leaves
+Teller 1 has finished serving Client 29
+Teller 1 is available
+Client 46 goes to Teller 1
+Teller 1 is serving Client 46
+Client 46 wants to make a Withdraw
+Teller 1 is processing Client 46's Withdraw
+Teller 1 is getting the manager's approval
+Teller 1 is got the manager's approval
+Teller 1 is going to the safe
+Teller 2 is done using the safe
+Teller 2 notifies Client 59
+Client 59 is done
+Teller 1 is using the safe
+Client 59 leaves
+Teller 2 has finished serving Client 59
+Teller 2 is available
+Client 11 goes to Teller 2
+Teller 2 is serving Client 11
+Client 11 wants to make a Deposit
+Teller 2 is processing Client 11's Deposit
+Teller 2 is going to the safe
+Teller 0 is done using the safe
+Teller 0 notifies Client 2
+Client 2 is done
+Client 2 leaves
+Teller 0 has finished serving Client 2
+Teller 0 is available
+Teller 2 is using the safe
+Client 45 goes to Teller 0
+Teller 0 is serving Client 45
+Client 45 wants to make a Withdraw
+Teller 0 is processing Client 45's Withdraw
+Teller 0 is getting the manager's approval
+Teller 1 is done using the safe
+Teller 1 notifies Client 46
+Client 46 is done
+Client 46 leaves
+Teller 1 has finished serving Client 46
+Teller 1 is available
+Client 19 goes to Teller 1
+Teller 1 is serving Client 19
+Client 19 wants to make a Withdraw
+Teller 1 is processing Client 19's Withdraw
+Teller 0 is got the manager's approval
+Teller 0 is going to the safe
+Teller 0 is using the safe
+Teller 1 is getting the manager's approval
+Teller 2 is done using the safe
+Teller 2 notifies Client 11
+Client 11 is done
+Client 11 leaves
+Teller 2 has finished serving Client 11
+Teller 2 is available
+Client 85 goes to Teller 2
+Teller 2 is serving Client 85
+Client 85 wants to make a Deposit
+Teller 2 is processing Client 85's Deposit
+Teller 2 is going to the safe
+Teller 2 is using the safe
+Teller 1 is got the manager's approval
+Teller 1 is going to the safe
+Teller 0 is done using the safe
+Teller 0 notifies Client 45
+Teller 1 is using the safe
+Teller 2 is done using the safe
+Teller 2 notifies Client 85
+Client 45 is done
+Client 45 leaves
+Client 85 is done
+Teller 0 has finished serving Client 45
+Teller 0 is available
+Teller 2 has finished serving Client 85
+Teller 2 is available
+Client 85 leaves
+Client 4 goes to Teller 0
+Teller 0 is serving Client 4
+Client 73 goes to Teller 2
+Client 4 wants to make a Withdraw
+Teller 0 is processing Client 4's Withdraw
+Teller 0 is getting the manager's approval
+Teller 2 is serving Client 73
+Client 73 wants to make a Withdraw
+Teller 2 is processing Client 73's Withdraw
+Teller 1 is done using the safe
+Teller 1 notifies Client 19
+Client 19 is done
+Client 19 leaves
+Teller 1 has finished serving Client 19
+Teller 1 is available
+Client 0 goes to Teller 1
+Teller 1 is serving Client 0
+Client 0 wants to make a Withdraw
+Teller 1 is processing Client 0's Withdraw
+Teller 0 is got the manager's approval
+Teller 0 is going to the safe
+Teller 0 is using the safe
+Teller 2 is getting the manager's approval
+Teller 2 is got the manager's approval
+Teller 2 is going to the safe
+Teller 2 is using the safe
+Teller 1 is getting the manager's approval
+Teller 0 is done using the safe
+Teller 0 notifies Client 4
+Client 4 is done
+Client 4 leaves
+Teller 0 has finished serving Client 4
+Teller 0 is available
+Client 92 goes to Teller 0
+Teller 0 is serving Client 92
+Client 92 wants to make a Deposit
+Teller 0 is processing Client 92's Deposit
+Teller 0 is going to the safe
+Teller 0 is using the safe
+Teller 1 is got the manager's approval
+Teller 1 is going to the safe
+Teller 0 is done using the safe
+Teller 0 notifies Client 92
+Teller 1 is using the safe
+Client 92 is done
+Client 92 leaves
+Teller 0 has finished serving Client 92
+Teller 0 is available
+Client 51 goes to Teller 0
+Teller 0 is serving Client 51
+Client 51 wants to make a Withdraw
+Teller 0 is processing Client 51's Withdraw
+Teller 0 is getting the manager's approval
+Teller 2 is done using the safe
+Teller 2 notifies Client 73
+Client 73 is done
+Client 73 leaves
+Teller 2 has finished serving Client 73
+Teller 2 is available
+Client 14 goes to Teller 2
+Teller 2 is serving Client 14
+Client 14 wants to make a Deposit
+Teller 2 is processing Client 14's Deposit
+Teller 2 is going to the safe
+Teller 2 is using the safe
+Teller 0 is got the manager's approval
+Teller 0 is going to the safe
+Teller 1 is done using the safe
+Teller 1 notifies Client 0
+Client 0 is done
+Teller 0 is using the safe
+Teller 1 has finished serving Client 0
+Client 0 leaves
+Teller 1 is available
+Client 71 goes to Teller 1
+Teller 1 is serving Client 71
+Client 71 wants to make a Withdraw
+Teller 1 is processing Client 71's Withdraw
+Teller 1 is getting the manager's approval
+Teller 2 is done using the safe
+Teller 2 notifies Client 14
+Client 14 is done
+Client 14 leaves
+Teller 2 has finished serving Client 14
+Teller 2 is available
+Client 31 goes to Teller 2
+Teller 2 is serving Client 31
+Client 31 wants to make a Withdraw
+Teller 2 is processing Client 31's Withdraw
+Teller 1 is got the manager's approval
+Teller 1 is going to the safe
+Teller 1 is using the safe
+Teller 2 is getting the manager's approval
+Teller 0 is done using the safe
+Teller 0 notifies Client 51
+Client 51 is done
+Client 51 leaves
+Teller 0 has finished serving Client 51
+Teller 0 is available
+Client 83 goes to Teller 0
+Teller 0 is serving Client 83
+Client 83 wants to make a Withdraw
+Teller 0 is processing Client 83's Withdraw
+Teller 2 is got the manager's approval
+Teller 2 is going to the safe
+Teller 2 is using the safe
+Teller 0 is getting the manager's approval
+Teller 1 is done using the safe
+Teller 1 notifies Client 71
+Client 71 is done
+Client 71 leaves
+Teller 1 has finished serving Client 71
+Teller 1 is available
+Client 81 goes to Teller 1
+Teller 1 is serving Client 81
+Client 81 wants to make a Withdraw
+Teller 1 is processing Client 81's Withdraw
+Teller 0 is got the manager's approval
+Teller 0 is going to the safe
+Teller 0 is using the safe
+Teller 1 is getting the manager's approval
+Teller 2 is done using the safe
+Teller 2 notifies Client 31
+Client 31 is done
+Client 31 leaves
+Teller 2 has finished serving Client 31
+Teller 2 is available
+Client 61 goes to Teller 2
+Teller 2 is serving Client 61
+Client 61 wants to make a Deposit
+Teller 2 is processing Client 61's Deposit
+Teller 2 is going to the safe
+Teller 2 is using the safe
+Teller 2 is done using the safe
+Teller 2 notifies Client 61
+Client 61 is done
+Client 61 leaves
+Teller 2 has finished serving Client 61
+Teller 2 is available
+Client 75 goes to Teller 2
+Teller 2 is serving Client 75
+Client 75 wants to make a Withdraw
+Teller 2 is processing Client 75's Withdraw
+Teller 0 is done using the safe
+Teller 0 notifies Client 83
+Client 83 is done
+Client 83 leaves
+Teller 0 has finished serving Client 83
+Teller 0 is available
+Client 18 goes to Teller 0
+Teller 0 is serving Client 18
+Client 18 wants to make a Deposit
+Teller 0 is processing Client 18's Deposit
+Teller 0 is going to the safe
+Teller 0 is using the safe
+Teller 1 is got the manager's approval
+Teller 1 is going to the safe
+Teller 1 is using the safe
+Teller 2 is getting the manager's approval
+Teller 0 is done using the safe
+Teller 0 notifies Client 18
+Client 18 is done
+Client 18 leaves
+Teller 0 has finished serving Client 18
+Teller 0 is available
+Client 60 goes to Teller 0
+Teller 0 is serving Client 60
+Client 60 wants to make a Deposit
+Teller 0 is processing Client 60's Deposit
+Teller 0 is going to the safe
+Teller 0 is using the safe
+Teller 1 is done using the safe
+Teller 1 notifies Client 81
+Client 81 is done
+Client 81 leaves
+Teller 1 has finished serving Client 81
+Teller 1 is available
+Client 77 goes to Teller 1
+Teller 1 is serving Client 77
+Client 77 wants to make a Withdraw
+Teller 1 is processing Client 77's Withdraw
+Teller 0 is done using the safe
+Teller 0 notifies Client 60
+Client 60 is done
+Client 60 leaves
+Teller 0 has finished serving Client 60
+Teller 0 is available
+Client 26 goes to Teller 0
+Teller 0 is serving Client 26
+Client 26 wants to make a Withdraw
+Teller 0 is processing Client 26's Withdraw
+Teller 2 is got the manager's approval
+Teller 2 is going to the safe
+Teller 2 is using the safe
+Teller 1 is getting the manager's approval
+Teller 2 is done using the safe
+Teller 2 notifies Client 75
+Client 75 is done
+Client 75 leaves
+Teller 2 has finished serving Client 75
+Teller 2 is available
+Client 90 goes to Teller 2
+Teller 2 is serving Client 90
+Client 90 wants to make a Withdraw
+Teller 2 is processing Client 90's Withdraw
+Teller 1 is got the manager's approval
+Teller 1 is going to the safe
+Teller 1 is using the safe
+Teller 0 is getting the manager's approval
+Teller 0 is got the manager's approval
+Teller 2 is getting the manager's approval
+Teller 0 is going to the safe
+Teller 0 is using the safe
+Teller 1 is done using the safe
+Teller 1 notifies Client 77
+Client 77 is done
+Client 77 leaves
+Teller 1 has finished serving Client 77
+Teller 1 is available
+Client 72 goes to Teller 1
+Teller 1 is serving Client 72
+Client 72 wants to make a Deposit
+Teller 1 is processing Client 72's Deposit
+Teller 1 is going to the safe
+Teller 1 is using the safe
+Teller 0 is done using the safe
+Teller 0 notifies Client 26
+Client 26 is done
+Client 26 leaves
+Teller 0 has finished serving Client 26
+Teller 0 is available
+Client 42 goes to Teller 0
+Teller 0 is serving Client 42
+Client 42 wants to make a Deposit
+Teller 0 is processing Client 42's Deposit
+Teller 0 is going to the safe
+Teller 0 is using the safe
+Teller 2 is got the manager's approval
+Teller 2 is going to the safe
+Teller 1 is done using the safe
+Teller 1 notifies Client 72
+Teller 2 is using the safe
+Client 72 is done
+Client 72 leaves
+Teller 1 has finished serving Client 72
+Teller 1 is available
+Client 57 goes to Teller 1
+Teller 1 is serving Client 57
+Client 57 wants to make a Withdraw
+Teller 1 is processing Client 57's Withdraw
+Teller 1 is getting the manager's approval
+Teller 2 is done using the safe
+Teller 2 notifies Client 90
+Client 90 is done
+Client 90 leaves
+Teller 2 has finished serving Client 90
+Teller 2 is available
+Client 54 goes to Teller 2
+Teller 2 is serving Client 54
+Client 54 wants to make a Withdraw
+Teller 2 is processing Client 54's Withdraw
+Teller 0 is done using the safe
+Teller 0 notifies Client 42
+Client 42 is done
+Client 42 leaves
+Teller 0 has finished serving Client 42
+Teller 0 is available
+Client 44 goes to Teller 0
+Teller 0 is serving Client 44
+Client 44 wants to make a Deposit
+Teller 0 is processing Client 44's Deposit
+Teller 0 is going to the safe
+Teller 0 is using the safe
+Teller 1 is got the manager's approval
+Teller 1 is going to the safe
+Teller 1 is using the safe
+Teller 2 is getting the manager's approval
+Teller 2 is got the manager's approval
+Teller 2 is going to the safe
+Teller 0 is done using the safe
+Teller 0 notifies Client 44
+Teller 2 is using the safe
+Client 44 is done
+Client 44 leaves
+Teller 0 has finished serving Client 44
+Teller 0 is available
+Client 63 goes to Teller 0
+Teller 0 is serving Client 63
+Client 63 wants to make a Deposit
+Teller 0 is processing Client 63's Deposit
+Teller 0 is going to the safe
+Teller 1 is done using the safe
+Teller 1 notifies Client 57
+Teller 0 is using the safe
+Client 57 is done
+Client 57 leaves
+Teller 1 has finished serving Client 57
+Teller 1 is available
+Client 67 goes to Teller 1
+Teller 1 is serving Client 67
+Client 67 wants to make a Deposit
+Teller 1 is processing Client 67's Deposit
+Teller 1 is going to the safe
+Teller 2 is done using the safe
+Teller 2 notifies Client 54
+Client 54 is done
+Teller 1 is using the safe
+Client 54 leaves
+Teller 2 has finished serving Client 54
+Teller 2 is available
+Client 13 goes to Teller 2
+Teller 2 is serving Client 13
+Client 13 wants to make a Withdraw
+Teller 2 is processing Client 13's Withdraw
+Teller 2 is getting the manager's approval
+Teller 2 is got the manager's approval
+Teller 2 is going to the safe
+Teller 0 is done using the safe
+Teller 0 notifies Client 63
+Client 63 is done
+Teller 2 is using the safe
+Client 63 leaves
+Teller 0 has finished serving Client 63
+Teller 0 is available
+Client 56 goes to Teller 0
+Teller 0 is serving Client 56
+Client 56 wants to make a Withdraw
+Teller 0 is processing Client 56's Withdraw
+Teller 0 is getting the manager's approval
+Teller 1 is done using the safe
+Teller 1 notifies Client 67
+Teller 0 is got the manager's approval
+Teller 0 is going to the safe
+Teller 0 is using the safe
+Client 67 is done
+Client 67 leaves
+Teller 1 has finished serving Client 67
+Teller 1 is available
+Client 50 goes to Teller 1
+Teller 1 is serving Client 50
+Client 50 wants to make a Deposit
+Teller 1 is processing Client 50's Deposit
+Teller 1 is going to the safe
+Teller 2 is done using the safe
+Teller 2 notifies Client 13
+Teller 1 is using the safe
+Client 13 is done
+Client 13 leaves
+Teller 2 has finished serving Client 13
+Teller 2 is available
+Client 21 goes to Teller 2
+Teller 2 is serving Client 21
+Client 21 wants to make a Withdraw
+Teller 2 is processing Client 21's Withdraw
+Teller 2 is getting the manager's approval
+Teller 2 is got the manager's approval
+Teller 2 is going to the safe
+Teller 0 is done using the safe
+Teller 0 notifies Client 56
+Teller 2 is using the safe
+Client 56 is done
+Client 56 leaves
+Teller 0 has finished serving Client 56
+Teller 0 is available
+Client 37 goes to Teller 0
+Teller 0 is serving Client 37
+Client 37 wants to make a Withdraw
+Teller 0 is processing Client 37's Withdraw
+Teller 0 is getting the manager's approval
+Teller 1 is done using the safe
+Teller 1 notifies Client 50
+Client 50 is done
+Client 50 leaves
+Teller 1 has finished serving Client 50
+Teller 1 is available
+Client 35 goes to Teller 1
+Teller 1 is serving Client 35
+Client 35 wants to make a Withdraw
+Teller 1 is processing Client 35's Withdraw
+Teller 0 is got the manager's approval
+Teller 0 is going to the safe
+Teller 0 is using the safe
+Teller 1 is getting the manager's approval
+Teller 2 is done using the safe
+Teller 2 notifies Client 21
+Client 21 is done
+Client 21 leaves
+Teller 2 has finished serving Client 21
+Teller 2 is available
+Client 93 goes to Teller 2
+Teller 2 is serving Client 93
+Client 93 wants to make a Deposit
+Teller 2 is processing Client 93's Deposit
+Teller 2 is going to the safe
+Teller 2 is using the safe
+Teller 1 is got the manager's approval
+Teller 1 is going to the safe
+Teller 0 is done using the safe
+Teller 0 notifies Client 37
+Teller 1 is using the safe
+Client 37 is done
+Client 37 leaves
+Teller 0 has finished serving Client 37
+Teller 0 is available
+Client 82 goes to Teller 0
+Teller 0 is serving Client 82
+Client 82 wants to make a Withdraw
+Teller 0 is processing Client 82's Withdraw
+Teller 0 is getting the manager's approval
+Teller 1 is done using the safe
+Teller 1 notifies Client 35
+Client 35 is done
+Client 35 leaves
+Teller 1 has finished serving Client 35
+Teller 1 is available
+Client 40 goes to Teller 1
+Teller 1 is serving Client 40
+Client 40 wants to make a Deposit
+Teller 1 is processing Client 40's Deposit
+Teller 1 is going to the safe
+Teller 1 is using the safe
+Teller 0 is got the manager's approval
+Teller 0 is going to the safe
+Teller 1 is done using the safe
+Teller 1 notifies Client 40
+Client 40 is done
+Teller 0 is using the safe
+Teller 1 has finished serving Client 40
+Client 40 leaves
+Teller 1 is available
+Client 95 goes to Teller 1
+Teller 1 is serving Client 95
+Client 95 wants to make a Withdraw
+Teller 1 is processing Client 95's Withdraw
+Teller 1 is getting the manager's approval
+Teller 2 is done using the safe
+Teller 2 notifies Client 93
+Client 93 is done
+Client 93 leaves
+Teller 2 has finished serving Client 93
+Teller 2 is available
+Teller 1 is got the manager's approval
+Teller 1 is going to the safe
+Teller 1 is using the safe
+Teller 0 is done using the safe
+Teller 0 notifies Client 82
+Client 82 is done
+Client 82 leaves
+Teller 0 has finished serving Client 82
+Teller 0 is available
+Teller 1 is done using the safe
+Teller 1 notifies Client 95
+Client 95 is done
+Client 95 leaves
+Teller 1 has finished serving Client 95
+Teller 1 is available
+Teller 2 Closes
+Teller 0 Closes
+Teller 1 Closes
+Bank closes
