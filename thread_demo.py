@@ -6,11 +6,6 @@ from queue import Queue
 managerLock = threading.Semaphore(1) # limits getting manager approval to one teller
 safeLock = threading.Semaphore(2) # limits safe use to two tellers
 
-# allows inter-thread communication
-commLock = threading.Semaphore(1)
-commID = 0
-commTransaction = 'None'
-
 clientQueue = Queue()
 
 tellerCount = 0
@@ -20,12 +15,15 @@ def teller(id):
     tellerCount += 1
     print(f'Teller {id} is available')
 
+    # hack to force manager approval every time
+    transactionType = 'Withdraw'
+
     # serve clients
     while not clientQueue.empty():
         serving = clientQueue.get()
         print(f'Teller {id} is serving Client {serving}')
         # check for withdraw
-        if True:
+        if transactionType == 'Withdraw':
             # get approval from manager
             print(f'Teller {id} is getting the manager\'s approval')
             managerLock.acquire()
@@ -58,13 +56,13 @@ def client(id):
     # print(f'Client {id} goes to Teller {tellerID}')
 
 # Start client threads
-for i in range(2):
+for i in range(100):
     t = threading.Thread(target=client,args=(i,))
     t.start()
 
 # Start teller threads
 threads = []
-for i in range(2):
+for i in range(3):
     t = threading.Thread(target=teller,args=(i,))
     t.start()
     threads.append(t)
